@@ -1,7 +1,7 @@
 <?php 
 
 
-namespace vitalis\HelloWorld;
+namespace laravelsdk\HelloWorld;
 use GuzzleHttp\Client;
 
 class Index
