@@ -1,0 +1,17 @@
+{
+    "name": "testingpublish/madhuhelloworld",
+    "description": "use guzzle http in laravel",
+    "authors": [{
+        "name": "Madhu",
+        "email": "madhu.constacloud@gmail.com"
+    }],
+    "require": {
+        "guzzlehttp/guzzle": "^6.5",
+        "yish/laravel-facebook-php-ads-sdk": "^2.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Bigcommerce\\": "src/"
+        }
+    }
+}
